@@ -39,6 +39,8 @@ The following changes were made to improve the performance of the website:
 ![Horiseon webpage](https://alnhurst.github.io/horiseon-seo-project/)
 
 ## Links
+URL to the repository
+https://github.com/AlNHurst/horiseon-seo-project
 
-
-## Licenses
+URL to the deployed application]
+https://alnhurst.github.io/horiseon-seo-project/
